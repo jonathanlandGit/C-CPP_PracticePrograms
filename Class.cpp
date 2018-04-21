@@ -36,10 +36,10 @@ carmack
 Sample Output
 
 15
-land, john
+carmack, john
 10
 
-15,john,land,10
+15,john,carmack,10
 */
 
 #include <iostream>
