@@ -1,0 +1,18 @@
+Elements in the array: 14.890898 71.316079 9.346635 88.895095 59.857666 
+
+Sum of the array: 244.306372
+
+Standard deviation of the array: 31.442770
+
+Smooth: 14.890898 18.038498 49.054780 57.900110 59.857666 
+
+Standard deviation of array after smooth: 16.120088
+Standard deviation of array after smooth: 15.807077
+Standard deviation of array after smooth: 15.802433
+Standard deviation of array after smooth: 15.831059
+Standard deviation of array after smooth: 15.855382
+Standard deviation of array after smooth: 15.871902
+Standard deviation of array after smooth: 15.882341
+Standard deviation of array after smooth: 15.888727
+Standard deviation of array after smooth: 15.892566
+Standard deviation of array after smooth: 15.894852
