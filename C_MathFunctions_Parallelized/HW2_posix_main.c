@@ -17,7 +17,7 @@
     4. Show how the array is smoothed which requires determining
 	    (a) the standard deviation to get the mean
 	    (b) then subtracting the mean and squaring the result (squared difference)
-        (c) and then getting the avg of those squared differences
+            (c) and then getting the avg of those squared differences
 */
 
 double origStdevArr(double array[], int size);
