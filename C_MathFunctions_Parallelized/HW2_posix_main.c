@@ -5,9 +5,20 @@
 #include <time.h>
 
 /*
- * Jonathan Land
- * 2/6/18
- */
+    @author Jonathan Land
+    2/6/18
+    This program was written for a Parallel Algorithms/HPC class I took.
+    Basically, this program parallelizes the code in the file C_MathFunctions.
+
+    The program does the following:
+    1. Parallelizes a randomized array
+    2. Parallelizes a sum function on the randomized array
+    3. Parallelizes a function to find the standard deviation of the array
+    4. Show how the array is smoothed which requires determining
+	    (a) the standard deviation to get the mean
+	    (b) then subtracting the mean and squaring the result (squared difference)
+        (c) and then getting the avg of those squared differences
+*/
 
 double origStdevArr(double array[], int size);
 
