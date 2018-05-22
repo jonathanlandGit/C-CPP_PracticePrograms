@@ -8,13 +8,12 @@
 @author Jonathan Land
 3/2018 
 
-The following C program is a compilation some serial C functions that perform 
-mathematical operations given randomized array. as described. 
+The following C program is a compilation of serial C functions that perform 
+mathematical operations.  
 
 There is s separate file containing a main routine that uses the library to 
 generate a small-ish array of random values and show that the standard deviation
-lowers as the array
-is smoothed
+lowers as the array is smoothed.
 
 I have included the text file as well. 
 */
