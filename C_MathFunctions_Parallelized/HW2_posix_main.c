@@ -8,7 +8,7 @@
     @author Jonathan Land
     2/6/18
     This program was written for a Parallel Algorithms/HPC class I took.
-    Basically, this program parallelizes the code in the file C_MathFunctions.
+    Basically, this program parallelizes the serial code in the file C_MathFunctions.
 
     The program does the following:
     1. Parallelizes a randomized array
