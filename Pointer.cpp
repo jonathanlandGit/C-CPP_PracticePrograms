@@ -1,18 +1,8 @@
 /*
 Jonathan Land
 
-You have to complete the function void update(int *a,int *b), which reads two integers as argument, and sets with the sum of them, and  with the absolute difference of them.
-
-Input Format
-
-Input will contain two integers,  and , separated by a newline.
-
-Output Format
-
-You have to print the updated value of  and , on two different lines.
-
-
-P.S.: Input/ouput will be automatically handled. You only have to complete the void update(int *a,int *b) function.
+Input will contain two integers, separated by a newline.
+Input/ouput will be automatically handled. 
 
 Sample Input
 
