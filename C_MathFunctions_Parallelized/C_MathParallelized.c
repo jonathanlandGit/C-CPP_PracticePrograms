@@ -4,6 +4,9 @@
 #include <time.h>
 #include <pthread.h>
 
+/*
+    This program is a parellel version of the math functions in the previous programs in this folder.
+*/
 
 int NUM_THREADS = 2;
 
