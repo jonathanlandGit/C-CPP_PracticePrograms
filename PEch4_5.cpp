@@ -14,7 +14,7 @@ int main(void)
 	//now fill it with info
 	snack = 
 	{
-		"Mocha Munch",
+		"Mocha",
 		2.3,	
 		350
 	};
