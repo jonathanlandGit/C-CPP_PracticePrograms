@@ -9,7 +9,7 @@ int main(void)
 		char brand[20];
 		float weight;
 		int calories;
-	} 
+	};
 
 	//now fill it with info
 	snack = 
