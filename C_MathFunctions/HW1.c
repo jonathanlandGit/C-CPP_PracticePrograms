@@ -51,6 +51,7 @@ double sum(double array[], int size)
     return sum;
 }
 
+//this is straightfoward also, just like the function above.
 double stdev(double array[], int size)
 {
     double sum = 0.0, mean;
